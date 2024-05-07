@@ -69,9 +69,8 @@ form.addEventListener("submit", function(e){
         }, 1000);
     }
     else{
-        
+        window.location.href = "https://www.youtube.com/watch?v=xvFZjo5PgG0"
     }
-    // else if()
 
     function validateAlphabetical(input){
         for (let i = 0; i < input.length; i++) {
